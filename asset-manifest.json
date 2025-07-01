@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AskProtege/static/css/main.55e56f3f.css",
+    "main.js": "/AskProtege/static/js/main.a4a4f959.js",
+    "index.html": "/AskProtege/index.html",
+    "main.55e56f3f.css.map": "/AskProtege/static/css/main.55e56f3f.css.map",
+    "main.a4a4f959.js.map": "/AskProtege/static/js/main.a4a4f959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55e56f3f.css",
+    "static/js/main.a4a4f959.js"
+  ]
+}
