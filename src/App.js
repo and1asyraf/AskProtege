@@ -71,11 +71,6 @@ function App() {
       >
         <div className="w-full max-w-4xl mx-auto flex items-center justify-between">
           <div className="flex items-center space-x-2 sm:space-x-3">
-            <img
-              src="/logo.png"
-              alt="PROTÉGÉ Universiti Sains Malaysia Logo"
-              className="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded bg-white"
-            />
             <div>
               <h1 className="text-lg sm:text-xl font-semibold text-gray-900">Ask Protege!</h1>
               <p className="text-xs sm:text-sm text-gray-500">Chat with me to learn more</p>
